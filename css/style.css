@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:#4603ff;
+    text-align: center;
+    font-size: 36px;
+}
+
+body {
+    background-image: url(../images/fruits-background.svg);
+    background-size: 750px;
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+li {
+    background-color: rgb(0, 255, 255, 0.5);
+    text-align: center;
+    list-style: none;
+    margin: 20px 450px;
+}
+
+a {
+    text-decoration: none;
+}
