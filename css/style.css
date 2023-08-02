@@ -59,3 +59,11 @@ div ol p {
   color: white;
   place-content: center;
 }
+
+div.home-page ul.recipe li {
+  display: inline;
+  list-style: none;
+  border: 2px solid blue;
+  padding: 0.5em;
+  margin: 150px 0px;
+}
